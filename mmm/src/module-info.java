@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Comarch
+ *
+ */
+module mmm {
+}
